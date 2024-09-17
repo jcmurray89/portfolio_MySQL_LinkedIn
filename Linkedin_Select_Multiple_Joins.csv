@@ -1,0 +1,19 @@
+job_id,title,company_name,skill_name,max_salary,med_salary,min_salary,benefit_type
+3878072014,"Part-Time CFO/Controller","Stiles CFO Services",NULL,75,0,50,NULL
+3884442045,".Net Architect","Cloud Consulting Services Inc (CCSI)",NULL,NULL,NULL,NULL,NULL
+3885109791,"Sales Business Development Executive","Sell Savings™",NULL,NULL,NULL,NULL,NULL
+3886211899,"Administrative Assistant","AR Builders",NULL,NULL,NULL,NULL,NULL
+3886824700,"Finance Administrator","Millboard Inc.",NULL,65000,0,45000,"401(k)"
+3886824700,"Finance Administrator","Millboard Inc.",NULL,65000,0,45000,"Dental insurance"
+3886824700,"Finance Administrator","Millboard Inc.",NULL,65000,0,45000,"Medical insurance"
+3886824700,"Finance Administrator","Millboard Inc.",NULL,65000,0,45000,"Pension plan"
+3887473432,"Junior Designer","Art + Loom",NULL,80000,0,55000,NULL
+3887475425,"Senior Sales Executive",Teqconnect,NULL,NULL,NULL,NULL,NULL
+3887489289,"Marketing Intern","SilkCut Underwear",NULL,0,15,0,NULL
+3887835641,"Healthcare Sales Trainee","New Solution Healthcare™",NULL,NULL,NULL,NULL,NULL
+3887844083,"Recruiting And Sales Specialist","Freedom Healthcare Solutions™",NULL,0,73,0,NULL
+3887873304,"Full Stack Engineer",Scratch,NULL,NULL,NULL,NULL,NULL
+3888030881,"Direct Sales Specialist","Freedom Healthcare Solutions™",NULL,NULL,NULL,NULL,NULL
+3888033306,"Seasoned Sales and Business Consultant","New Solution Healthcare™",NULL,NULL,NULL,NULL,NULL
+3888036167,"Data Analyst","Lemon Tek",NULL,NULL,NULL,NULL,NULL
+3888038022,"Outside Sales Representative","New Solution Healthcare™",NULL,NULL,NULL,NULL,NULL
